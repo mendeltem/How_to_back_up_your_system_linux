@@ -116,7 +116,21 @@ e4-1f-13-ef-ed-30
 IP-Adresse:
 10.47.120.23
 
+5. After configuring your file as above, save and exit. Apply the necessary changes with the following command:
+
+```bash
+
+sudo netplan apply
+
+```
+
+6. You can now check the changes using the following command:
+
+```bash
+ip addr
+```
 
 
 
+![Image 15](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/changes-check-for-netplan-configuration-for-ubuntu-server.jpg?q=50&fit=crop&w=1500&dpr=1.5)
 
