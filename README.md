@@ -1,5 +1,8 @@
 # How_to_back_up_your_system_linux
 
+# show the folder size with exclude and max depth
+`sudo du  --max-depth 1 --exclude="CSB*" /home/ | sort -h`
+
 ## create a backup
 
 ```bash
