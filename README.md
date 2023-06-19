@@ -74,8 +74,7 @@ For example, you want the interface named eth0 to have a connection speed of 500
 The configuration you've seen above also works with other methods like DHCP, even if it's a static method interface.
 
 
-# The configuration you've seen above also works with other methods like DHCP, even if it's a static method interface.
-
+# Configure Ethernet Interface on Ubuntu 20.04 and Later
 
 The path you need to follow for ethernet network configuration in Ubuntu 20.04 is slightly different from older Ubuntu versions. Newer Ubuntu releases (after 18.04) now have /etc/netplan/ instead of /etc/network/interfaces.
 
