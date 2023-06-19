@@ -35,8 +35,6 @@ With the lshw command, you can define all the network interfaces you need for co
 sudo lshw -class network
 
 ```
-![Image 15]([images/image_1.jpg](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/lshw-class-network-and-network-information-output.jpg))
 
-
-
+![Image 15](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/lshw-class-network-and-network-information-output.jpg?q=50&fit=crop&w=1500&dpr=1.5)
 
