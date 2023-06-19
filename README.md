@@ -109,8 +109,10 @@ sudo vim /etc/netplan/00-installer-config.yaml
 
 Hostname:
 s-csb-gpu.charite.de
+
 MAX-Adresse:
 e4-1f-13-ef-ed-30
+
 IP-Adresse:
 10.47.120.23
 
