@@ -1,5 +1,17 @@
 # How_to_back_up_your_system_linux
 
+## get the dive info
+```bash
+lsblk
+
+sudo mount /dev/sdb1 /media/external
+```
+
+##empty trash
+```bash
+rm -rf /home/*/.local/share/Trash/files/*
+```
+
 # show the folder size with exclude and max depth
 `sudo du  --max-depth 1 --exclude="CSB*" /home/ | sort -h`
 
