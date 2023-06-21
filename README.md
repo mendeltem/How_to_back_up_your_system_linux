@@ -7,6 +7,7 @@ lsblk
 sudo mount /dev/sdb1 /media/external
 ```
 
+
 ##empty trash
 ```bash
 rm -rf /home/*/.local/share/Trash/files/*
@@ -121,14 +122,6 @@ sudo vim /etc/netplan/00-installer-config.yaml
 
 ![Image 15](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/netplan-network-config-file-for-ubuntu.jpg?q=50&fit=crop&w=1500&dpr=1.5)
 
-Hostname:
-s-csb-gpu.charite.de
-
-MAX-Adresse:
-e4-1f-13-ef-ed-30
-
-IP-Adresse:
-10.47.120.23
 
 5. After configuring your file as above, save and exit. Apply the necessary changes with the following command:
 
